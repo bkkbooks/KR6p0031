@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6p0031/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0031/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量壽佛名號利益大事因緣經
+  identifiers:
+    krp: KR6p0031
+    cbeta: X01n0011
+    cbeta_old_id: X01n0011
+    authorityid: CA0003410
+    json_key: X0011
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0011.xml
+    old_id: X01n0011
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0031_000-X.yaml, hash: 'sha256:3b7054701e5eb5508e2496a1e4e9d9469cc27c667d1f9a505f9b1406e55bd9c1'}
+  - {seq: 1, filename: KR6p0031_001-X.yaml, hash: 'sha256:6c446c7ba3bdcd57e317606bf32ea30f8ac85dac1578fe9f1347e825ea84e237'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0031_000-X.markers.yaml, hash: 'sha256:bf0d03a99a98b73c41f6c96d249edbde9c8725a2fcf382ef64c12d3643a549e1'}
+  - {seq: 1, role: markers, filename: assets/KR6p0031_001-X.markers.yaml, hash: 'sha256:17c6e04f72d5992d1e63d8c902762bfdee67f6c02e98748728b51aeb8872e6b2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0031_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1188
+  label: 佛說無量壽佛名號利益大事因緣經
+  type: juan
+  level: 1
+hash: sha256:56942be2fe01bc11847ec5c9d4eb1081b9494624c1a4aa03deb43a4be01f8089

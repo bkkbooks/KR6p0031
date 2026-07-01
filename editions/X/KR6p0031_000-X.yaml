@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0031/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無量壽佛名號利益大事因緣經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0011.xml
+    old_id: X01n0011
+hash: sha256:3b7054701e5eb5508e2496a1e4e9d9469cc27c667d1f9a505f9b1406e55bd9c1
