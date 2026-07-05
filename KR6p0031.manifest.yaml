@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0031_000.yaml, hash: 'sha256:3b7054701e5eb5508e2496a1e4e9d9469cc27c667d1f9a505f9b1406e55bd9c1'}
-  - {seq: 1, filename: KR6p0031_001.yaml, hash: 'sha256:b5ac640c6d59e572d0ef2e492d0f468e5cfbafdb13b4703baa20bf26828918c9'}
+  - {seq: 1, filename: KR6p0031_001.yaml, hash: 'sha256:6c446c7ba3bdcd57e317606bf32ea30f8ac85dac1578fe9f1347e825ea84e237'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6p0031_001.markers.yaml, hash: 'sha256:bff41ea91563e8075c37e5d2024d19a5ac6e503ed59e213e832208cd00aedec9'}
+  - {seq: 0, role: markers, filename: assets/KR6p0031_000.markers.yaml, hash: 'sha256:66b66bd9d1160cf592d4b9f4449933fe705c075ad88134494e3aa2d50c4033be'}
+  - {seq: 1, role: markers, filename: assets/KR6p0031_001.markers.yaml, hash: 'sha256:6fe429299306bd2b91e98602552d9db186ed4828d1121ad0a6579e24cded8184'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說無量壽佛名號利益大事因緣經
   type: juan
   level: 1
-hash: sha256:89357b4d2c4dde7bdede6ca0f717fe4aa452cf7f23737b0f3d090a9336007142
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:71c67365c6584fd7929743c3a452c71dead352159285d3b39e207c822a7637e5
