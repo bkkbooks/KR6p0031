@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0031/v1
 canonical_location: https://kanripo.org/bkk/KR6p0031/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說無量壽佛名號利益大事因緣經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0031_000.yaml, hash: 'sha256:3b7054701e5eb5508e2496a1e4e9d9469cc27c667d1f9a505f9b1406e55bd9c1'}
-  - {seq: 1, filename: KR6p0031_001.yaml, hash: 'sha256:6c446c7ba3bdcd57e317606bf32ea30f8ac85dac1578fe9f1347e825ea84e237'}
+  - {seq: 1, filename: KR6p0031_001.yaml, hash: 'sha256:4cbb6b95006aa32bac434378977875034b029edde2f06a635a1e93230656fae2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0031_000.markers.yaml, hash: 'sha256:66b66bd9d1160cf592d4b9f4449933fe705c075ad88134494e3aa2d50c4033be'}
-  - {seq: 1, role: markers, filename: assets/KR6p0031_001.markers.yaml, hash: 'sha256:6fe429299306bd2b91e98602552d9db186ed4828d1121ad0a6579e24cded8184'}
+  - {seq: 1, role: markers, filename: assets/KR6p0031_001.markers.yaml, hash: 'sha256:fd69a2f19a6c28373f834a1bcef6243beecbbb18e8250ab53a04f2cca8ef45df'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說無量壽佛名號利益大事因緣經
   type: juan
   level: 1
-hash: sha256:71c67365c6584fd7929743c3a452c71dead352159285d3b39e207c822a7637e5
+hash: sha256:998203d495deb84c22924a689d239f7fb13df884ee94132f8ebb632e66361492
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
